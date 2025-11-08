@@ -1,0 +1,7 @@
+Algorithm,Nodes Explored,Path Length,Path Cost,Execution Time (ms),Safety Score,Overall Score,Evacuation Efficiency,Is Best
+A*,120,27,133.74,43.29,92.31,38.91,0.1594,No
+BFS,358,20,20.00,156.39,69.02,29.64,0.2207,No
+DFS,657,33,33.00,324.80,95.65,39.47,0.0892,No
+Greedy,20,20,20.00,8.64,79.32,40.86,4.5908,Yes
+Dijkstra,271,27,133.74,125.50,92.31,37.94,0.0550,No
+Bidirectional,302,20,20.00,148.28,72.39,31.09,0.2441,No
